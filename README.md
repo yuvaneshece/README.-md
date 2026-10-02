@@ -1,1 +1,14 @@
 # README.-md
+# Hi, I'm Yuvanesh 
+
+🎓 ECE Student at St. Joseph's College of Engineering
+
+💻 Currently learning C programming
+and planning to learn Python programming. 
+📚 Interested in Electronics, Technology & UPSC
+
+## Skills
+- C
+- Communication
+- Leadership
+- Electronics
