@@ -1,4 +1,4 @@
-# README.-md
+# README.md
 # Hi, I'm Yuvanesh 
 
 🎓 ECE Student at St. Joseph's College of Engineering
